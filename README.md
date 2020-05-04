@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to Kathmandu University ITMEET 2018's Yomari Code Camp for giving an opportunity to participate and create this project.
+* Thanks to [Kathmandu University ITMEET 2018](http://kucc.ku.edu.np/itmeet)'s Yomari Code Camp for giving an opportunity to participate and create this project.
