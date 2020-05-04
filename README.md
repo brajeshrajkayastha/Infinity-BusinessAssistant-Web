@@ -9,7 +9,7 @@ Clone or Download the project into any web server's file location. e.g. into 'ht
 
 ### Prerequisites
 
-* PHP based web server e.g. XAMPP .
+* PHP based web server e.g. [XAMPP](https://www.apachefriends.org/index.html).
 
 ## Authors
 
