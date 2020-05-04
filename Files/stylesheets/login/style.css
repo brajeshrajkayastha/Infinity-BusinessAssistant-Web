@@ -1,0 +1,36 @@
+body{
+	background-color:#AEB6BF;
+}
+.login_board{
+	position:fixed;
+	
+	
+	padding: 90px 40px 50px 40px;
+	border-radius:5px;
+	background-color:white;
+}
+
+.form-control{
+		
+	border:solid 0.1;
+	color:black;
+	border-radius:3px;
+	text-align:center;
+}
+
+.btn{
+	display:block;
+	margin-top:6%;
+	width:90%;
+	margin-left:7%;
+	background:dark gray;
+}
+.btn:hover{
+	color:red;
+}
+.width{
+	margin-top:25%;
+}
+.loginperson{
+	
+}
